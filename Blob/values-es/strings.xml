@@ -3,7 +3,7 @@
     <string name="locale">es</string>
     <string name="cancel">Cancelar</string>
     <string name="error">Error</string>
-    <string name="no_internet">Para jugar tienes que tener una conexión a Internet</string>
+    <string name="no_internet">Necesitas una conexión a internet para jugar</string>
     <string name="show_minimap">Mostrar mapa</string>
     <string name="show_chat">Mostrar chat</string>
     <string name="show_advanced_minimap">Activar mapa avanzado</string>
@@ -15,18 +15,18 @@
 
     <string name="default_name">No me comas!</string>
     <string name="play">Jugar</string>
-    <string name="nick_name">Nickname:</string>
-    <string name="exit_dialog">Que tu quieres?</string>
-    <string name="exit">Salir</string>
+    <string name="nick_name">Alias:</string>
+    <string name="exit_dialog">¿Abandonar?</string>
+    <string name="exit">Abandonar</string>
     <string name="restart">Reingresar</string>
-    <string name="show_leaders">Mostrar placar</string>
+    <string name="show_leaders">Mostrar Puestos</string>
     <string name="show_skins">Mostrar skins</string>
     <string name="show_DirectionPointer">Dirección del puntero</string>
     <string name="show_joystick">Joystick</string>
     <string name="save_button">Guardar</string>
     <string name="settings">Ajustes</string>
     <string name="skins_list">Skins</string>
-    <string name="skin_message">Esto cambiará su nombre</string>
+    <string name="skin_message">Esto cambiará tu nombre</string>
     <string name="skin_title">Quieres usar esta skin?</string>
     <string name="connect_to">Conectar a</string>
     <string name="connecting">Conectando...</string>
@@ -34,14 +34,14 @@
     <string name="copied">Copiado:</string>
     <string name="connection_closed">Conexión perdida</string>
     <string name="connection_lost">Conexión perdida</string>
-    <string name="cant_connect">No se pudo conectar a este servidor. Por favor, inténtelo de nuevo</string>
+    <string name="cant_connect">No se pudo conectar a este servidor. Por favor, intentalo de nuevo</string>
     <string name="about_title">Acerca</string>
     <string name="about_text">&#032; Cliente Android Blob %1$s \n\n
 	&#032;Usted puede enviarnos sugerencias a través de este e-mail:
         <!--<i>E-mail: blobgame@ya.ru</i>\n-->
     </string>
 
-    <string name="check_update">Comprobar la actualización</string>
+    <string name="check_update">Comprobar Actualizaciones</string>
     <string name="score_result">Puntuación final: %1$s</string>
     <string name="you_set_new_record">Has alcanzado un nuevo récord en este modo de juego!</string>
     <string name="share">Partilhar</string>
@@ -58,8 +58,8 @@
     <string name="vibration">Vibración</string>
     <string name="game_mechanic_description">
         &#160;- Cuanto mayor sea, más lento se mueve\n
-        &#160;- Toque el botón relevante para dividir en dos blobs más pequeños.\n
-        &#160;- La mitad de ustedes dispara rápidamente, use este truco para atacar a otros jugadores y coma. \n
+        &#160;- Toca el botón relevante para dividirte en dos blobs más pequeños.\n
+        &#160;- AL dividirte la otra parte saldra disparada rapidamenre, usa este truco para atacar a otros jugadores y comerlos. \n
         &#160;- Si usted está dividido, usted puede recombinar en un blob después de un cierto período de tiempo haber pasado, cuanto mayor sea sus gotas, más usted debe aguardar antes de que usted pueda formarse nuevamente en un blob.\n
         &#160;- Si usted es más pequeño que los spikeballs, entonces usted puede esconderse dentro de ellos para proteger, pero cuidado, si usted es más grande que un spikeball, a continuación, tocar esto hace que explotar en muchas pequeñas gotas.\n
         &#160;- Usted puede hacer spikeballs para dividir y alguien, jugando alguna su masa en él.\n
